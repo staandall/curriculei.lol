@@ -1,0 +1,12 @@
+# Decisões em aberto (Grill Me)
+
+1. Público-alvo inicial e principal problema.
+2. Primeiro caminho de ativação: análise, criação ou vagas?
+3. Fórmula objetiva da nota ATS e explicação.
+4. Limite entre assistente de escrita e invenção.
+5. MVP do canvas × depois.
+6. O que é "preparar 20 candidaturas" e onde entra a aprovação.
+7. Custo por operação, limites grátis, estornos, assinatura.
+8. Sync Pay: métodos, webhooks, reembolso, liquidação.
+9. ~~TanStack Start × Bun/Elysia~~ → resolvido (ADR 0001/0002).
+10. Recuperação de falhas e retenção de arquivos.
