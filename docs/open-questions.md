@@ -1,7 +1,7 @@
 # Decisões em aberto (Grill Me)
 
 1. ~~Público-alvo~~ → resolvido: quem procura emprego e precisa melhorar a apresentação do currículo.
-2. ~~Primeira experiência~~ → resolvido: analisar um currículo existente (PDF → nota, pontos fracos, sugestões). Criação do zero e vagas vêm depois.
+2. ~~Primeira experiência~~ → resolvido: analisar um currículo existente (PDF → nota, pontos fracos, sugestões). Criação do zero e vagas vêm depois. A vaga é obrigatória na primeira análise (nota e palavras faltantes comparadas com a vaga).
 3. Fórmula objetiva da nota ATS e explicação.
 4. Limite entre assistente de escrita e invenção.
 5. MVP do canvas × depois.
